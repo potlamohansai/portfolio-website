@@ -62,13 +62,13 @@ const Data = () => {
           strings: ['Frontend Developer', 'Backend Developer','Blockchain Developer', 'MERN Stack Developer'],
           autoStart: true,
           loop: true,
-          styles: "display: inline"
+          deleteSpeed: 4
           }}
           /></h3>
-        <p className='home__description'>I'm a MERN Stack developer specializing in building exceptional digital experiences. Currently, I am learning blockchain and improving my skills in building responsive full-stack web applications.</p>
+        <p className='home__description'>I'm a MERN Stack developer specializing in building exceptional digital experiences. Currently, I am learning blockchain development and improving my skills in building responsive full-stack web applications.</p>
 
         <a href='#contact' className='button button--flex'>
-            Say Hello
+            Hire Me
             <svg
                   class="button__icon"
                   xmlns="http://www.w3.org/2000/svg"
