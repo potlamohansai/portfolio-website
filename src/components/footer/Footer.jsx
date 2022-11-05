@@ -41,7 +41,7 @@ const Footer = () => {
             </div>
 
             <span className='footer__copy'>
-                &#169; mohansai. All rigths reserved
+                &#169; mohansai. All rights reserved
             </span>
         </div>
     </footer>
