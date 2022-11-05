@@ -53,6 +53,9 @@
     box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.15);
 }
 
+
+/*=========BREAK POINTS=========*/
+/* For Medium devices */
 @media screen and (max-width: 768px) {
     .header {
         top: initial;
@@ -121,6 +124,9 @@
 /* For small devices*/
 @media screen and (max-width: 350px) {
     .nav__menu {
-        padding: 2rem 0.25rem;
+        padding: 2rem 0.25rem 4rem;
+    }
+    .nav__list {
+        column-gap: 0;
     }
 }
