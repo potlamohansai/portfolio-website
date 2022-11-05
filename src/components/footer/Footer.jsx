@@ -40,8 +40,10 @@ const Footer = () => {
         </a>
             </div>
 
+            <quote className='footer__quote'>"All know the way; few actually walk it."<i> -Bodhidharma</i></quote>
+
             <span className='footer__copy'>
-                &#169; mohansai. All rights reserved
+                Copyright &#169;2022 All rights reserved | Made with &hearts; by Mohan
             </span>
         </div>
     </footer>

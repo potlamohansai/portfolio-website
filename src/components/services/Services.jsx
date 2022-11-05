@@ -11,7 +11,7 @@ const Services = () => {
   return (
     <section className="services section" id="services">
         <h2 className="section__title">Services</h2>
-        <span className="section__subtitle">What I offer</span>
+        <span className="section__subtitle">What I Offer</span>
 
         <div className="services__container container grid">
             {/*=====FIRST=====*/}
@@ -33,36 +33,49 @@ const Services = () => {
 
                         <h3 className='services__modal-title'>Frontend Development</h3>
                         <p className='services__modal-description'>
-                            Service with more than 3 years of experience.
-                            Providing quality work to clients and companies.
+                            Having more than 1+ years of experience in Frontend Development
                         </p>
 
                         <ul className="services__modal-services grid">
                             <li className="services__modal-service">
                                 <i className='uil uil-check-circle services__modal-icon'></i>
                                 <p className='services__modal-info'>
-                                    I develop the user interface.
+                                    I can develop scalable and high performance applications.
                                 </p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className='uil uil-check-circle services__modal-icon'></i>
                                 <p className='services__modal-info'>
-                                    I develop the user interface.
+                                    I can able to work on Javascript and React seamlessly.
+                                </p>
+                            </li>                           
+
+                            <li className="services__modal-service">
+                                <i className='uil uil-check-circle services__modal-icon'></i>
+                                <p className='services__modal-info'>
+                                    I can develop and implement highly responsive user interface components.
                                 </p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className='uil uil-check-circle services__modal-icon'></i>
                                 <p className='services__modal-info'>
-                                    I develop the user interface.
+                                    I can build reusable components and frontend libraries for future use.
                                 </p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className='uil uil-check-circle services__modal-icon'></i>
                                 <p className='services__modal-info'>
-                                    I develop the user interface.
+                                    I can translate designs and wireframes into high quality code.
+                                </p>
+                            </li>
+
+                            <li className="services__modal-service">
+                                <i className='uil uil-check-circle services__modal-icon'></i>
+                                <p className='services__modal-info'>
+                                    I can optimise components for maximum performance across web-capable devices and browsers.
                                 </p>
                             </li>
                         </ul>
@@ -89,36 +102,49 @@ const Services = () => {
 
                         <h3 className='services__modal-title'>Backend Development</h3>
                         <p className='services__modal-description'>
-                            Service with more than 3 years of experience.
-                            Providing quality work to clients and companies.
+                            Having more than 1+ years of experience in Backend Development
                         </p>
 
                         <ul className="services__modal-services grid">
                             <li className="services__modal-service">
                                 <i className='uil uil-check-circle services__modal-icon'></i>
                                 <p className='services__modal-info'>
-                                    I develop the user interface.
+                                    I can able to work on NodeJs, ExpressJs and MongoDB.
                                 </p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className='uil uil-check-circle services__modal-icon'></i>
                                 <p className='services__modal-info'>
-                                    I develop the user interface.
+                                    I can create servers and databases for functionality.
                                 </p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className='uil uil-check-circle services__modal-icon'></i>
                                 <p className='services__modal-info'>
-                                    I develop the user interface.
+                                    I can write high performance, reliable and maintainable code.
                                 </p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className='uil uil-check-circle services__modal-icon'></i>
                                 <p className='services__modal-info'>
-                                    I develop the user interface.
+                                    I can write technical documentation using Swagger UI.
+                                </p>
+                            </li>
+
+                            <li className="services__modal-service">
+                                <i className='uil uil-check-circle services__modal-icon'></i>
+                                <p className='services__modal-info'>
+                                    I have working knowledge of Git and GitHub.
+                                </p>
+                            </li>
+
+                            <li className="services__modal-service">
+                                <i className='uil uil-check-circle services__modal-icon'></i>
+                                <p className='services__modal-info'>
+                                    I can able to experiment with new technologies and learn new skills on fly.
                                 </p>
                             </li>
                         </ul>
@@ -145,36 +171,49 @@ const Services = () => {
 
                         <h3 className='services__modal-title'>Blockchain Development</h3>
                         <p className='services__modal-description'>
-                            Service with more than 3 years of experience.
-                            Providing quality work to clients and companies.
+                            Currently I am developing skills in blockchain technology and I am very enthusiastic to work in Blockchain domain. 
                         </p>
 
                         <ul className="services__modal-services grid">
                             <li className="services__modal-service">
                                 <i className='uil uil-check-circle services__modal-icon'></i>
                                 <p className='services__modal-info'>
-                                    I develop the user interface.
+                                    I have basic blockchain knowledge and its technical parameters.
                                 </p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className='uil uil-check-circle services__modal-icon'></i>
                                 <p className='services__modal-info'>
-                                    I develop the user interface.
+                                    I can understand blockchain architecture and its working as a consensus, hash functioning etc.
                                 </p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className='uil uil-check-circle services__modal-icon'></i>
                                 <p className='services__modal-info'>
-                                    I develop the user interface.
+                                    I have basic knowledge on Solidity and I can able to create Smart Contracts in the Ethereum blockchain.
                                 </p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className='uil uil-check-circle services__modal-icon'></i>
                                 <p className='services__modal-info'>
-                                    I develop the user interface.
+                                    I have basic knowledge on NFTs, DApps, DeFi and DAOs.
+                                </p>
+                            </li>
+
+                            <li className="services__modal-service">
+                                <i className='uil uil-check-circle services__modal-icon'></i>
+                                <p className='services__modal-info'>
+                                    I have basic knowledge on Cryptography and P2P Networks.
+                                </p>
+                            </li>
+
+                            <li className="services__modal-service">
+                                <i className='uil uil-check-circle services__modal-icon'></i>
+                                <p className='services__modal-info'>
+                                    I have strong passion for blockchain technologies and willing to develop my skills.
                                 </p>
                             </li>
                         </ul>
