@@ -1,4 +1,5 @@
 import React from 'react'
+import Typewriter from 'typewriter-effect';
 
 const Data = () => {
   return (
@@ -54,7 +55,16 @@ const Data = () => {
                   ></path>
                 </svg>
         </h1>
-        <h3 className='home__subtitle'>MERN Stack Developer</h3>
+        
+        <h3 className='home__subtitle'>
+          <Typewriter 
+          options={{
+          strings: ['Frontend Developer', 'Backend Developer','Blockchain Developer', 'MERN Stack Developer'],
+          autoStart: true,
+          loop: true,
+          styles: "display: inline"
+          }}
+          /></h3>
         <p className='home__description'>I'm a MERN Stack developer specializing in building exceptional digital experiences. Currently, I am learning blockchain and improving my skills in building responsive full-stack web applications.</p>
 
         <a href='#contact' className='button button--flex'>
