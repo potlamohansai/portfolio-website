@@ -1,7 +1,7 @@
 import React from 'react'
 import "./about.css"
 import AboutImg from "../../assets/about.jpg";
-import CV from "../../assets/Mohan Sai Potla-Resume.pdf";
+import CV from "../../assets/MohanSaiPotla_Resume.pdf";
 import Info from './Info';
 
 const About = () => {
@@ -11,12 +11,12 @@ const About = () => {
         <span className="section__subtitle">My Introduction</span>
 
         <div className="about__container container grid">
-            <img src={AboutImg} alt="My Photo" className='about__img'/>
+            <img src={AboutImg} alt="profile" className='about__img'/>
 
             <div className='about__data'>
                 <Info/>
 
-                <p className='about__description'>I am a MERN Stack Developer with 1+ years of working experience in development. No matter if I am working solo or in a team, I am passionate about bringing ideas to life.</p>
+                <p className='about__description'>I am a MERN Stack Developer with 2+ years of working experience in development. No matter if I am working solo or in a team, I am passionate about bringing ideas to life.</p>
 
                 <a download="" href={CV} className='button button--flex'>Download CV
                 <svg
