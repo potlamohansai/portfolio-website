@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-website/static/css/main.2856ed4d.css",
-    "main.js": "/portfolio-website/static/js/main.6d8d2a14.js",
+    "main.js": "/portfolio-website/static/js/main.fc7bfebf.js",
     "static/media/about.jpg": "/portfolio-website/static/media/about.53fd56cdd1144d3bf452.jpg",
     "static/media/profile.jpg": "/portfolio-website/static/media/profile.53fd56cdd1144d3bf452.jpg",
     "static/media/work7.jpg": "/portfolio-website/static/media/work7.bef96a1b9c7de204240d.jpg",
@@ -14,7 +14,6 @@
     "static/media/work18.jpg": "/portfolio-website/static/media/work18.c98e5f720c32d11d2c48.jpg",
     "static/media/work2.jpg": "/portfolio-website/static/media/work2.255614caa3998c2fb1c3.jpg",
     "static/media/testimonial2.jpeg": "/portfolio-website/static/media/testimonial2.f16c6aed87ecf7db4485.jpeg",
-    "static/media/MohanSaiPotla_Resume.pdf": "/portfolio-website/static/media/MohanSaiPotla_Resume.0560b10e529b47e85359.pdf",
     "static/media/work9.jpg": "/portfolio-website/static/media/work9.a5930874519673fe9966.jpg",
     "static/media/work10.jpg": "/portfolio-website/static/media/work10.f64b1a1749aa948995e4.jpg",
     "static/media/testimonial5.jpeg": "/portfolio-website/static/media/testimonial5.ee679da7498f99279296.jpeg",
@@ -23,6 +22,7 @@
     "static/media/work16.jpg": "/portfolio-website/static/media/work16.66b8182570a501dbb4c2.jpg",
     "static/media/work6.jpg": "/portfolio-website/static/media/work6.5524643535225864ad89.jpg",
     "static/media/testimonial1.jpeg": "/portfolio-website/static/media/testimonial1.16a7078c9de8647aa829.jpeg",
+    "static/media/MohanSaiPotla_Resume.pdf": "/portfolio-website/static/media/MohanSaiPotla_Resume.520018d0c6fc577be3cf.pdf",
     "static/media/work17.jpg": "/portfolio-website/static/media/work17.e544179d2a1e64fa2aa2.jpg",
     "static/media/work1.jpg": "/portfolio-website/static/media/work1.f08ae8a244ea4904962d.jpg",
     "static/media/work5.jpg": "/portfolio-website/static/media/work5.1cbd291211725671c5a0.jpg",
@@ -33,10 +33,10 @@
     "static/media/work11.jpg": "/portfolio-website/static/media/work11.3f5d058048bbe22a3537.jpg",
     "index.html": "/portfolio-website/index.html",
     "main.2856ed4d.css.map": "/portfolio-website/static/css/main.2856ed4d.css.map",
-    "main.6d8d2a14.js.map": "/portfolio-website/static/js/main.6d8d2a14.js.map"
+    "main.fc7bfebf.js.map": "/portfolio-website/static/js/main.fc7bfebf.js.map"
   },
   "entrypoints": [
     "static/css/main.2856ed4d.css",
-    "static/js/main.6d8d2a14.js"
+    "static/js/main.fc7bfebf.js"
   ]
 }
