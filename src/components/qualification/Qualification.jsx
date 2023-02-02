@@ -154,10 +154,10 @@ const Qualification = () => {
                             <span className="qualification__line"></span>
                         </div>
                         <div>
-                            <h3 className="qualification__title">Digital Assistant</h3>
-                            <span className='qualification__subtitle'>Panchayat Raj - Nellore</span>
+                            <h3 className="qualification__title">UI Developer</h3>
+                            <span className='qualification__subtitle'>BSW Soft Pvt Ltd - Bangalore</span>
                             <div className='qualification__calendar'>
-                                <i className='uil uil-calendar-alt'></i> Dec 2019 - Nov 2021
+                                <i className='uil uil-calendar-alt'></i> Sep 2020 - Nov 2021
                             </div>
                         </div>
                     </div>
