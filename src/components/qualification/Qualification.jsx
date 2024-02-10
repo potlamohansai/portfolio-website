@@ -40,11 +40,25 @@ const Qualification = () => {
                 {/* QUALIFICATION SECTION */}
                 <div className={toggleState === 1 ? "qualification__content qualification__content-active":"qualification__content"}>
                     <div className="qualification__data">
+                        <div></div>
+                        <div>
+                            <span className="qualification__rounder"></span>
+                            <span className="qualification__line"></span>
+                        </div>
+                        <div>
+                            <h3 className="qualification__title">Software Development & Problem Solving</h3>
+                            <span className='qualification__subtitle'>Scaler Academy</span>
+                            <div className='qualification__calendar'>
+                                <i className='uil uil-calendar-alt'></i> Aug 2023 - Present
+                            </div>
+                        </div>
+                    </div>
+                    <div className="qualification__data">
                         <div>
                             <h3 className="qualification__title">M.Tech</h3>
                             <span className='qualification__subtitle'>JNTU - Anantapur</span>
                             <div className='qualification__calendar'>
-                                <i className='uil uil-calendar-alt'></i> Dec 2021 - Present
+                                <i className='uil uil-calendar-alt'></i> Dec 2021 - May 2023
                             </div>
                         </div>
 
