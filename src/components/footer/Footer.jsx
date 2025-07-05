@@ -1,53 +1,77 @@
-import React from 'react'
-import "./footer.css"
+import React from "react";
+import "./footer.css";
 
 const Footer = () => {
   return (
     <footer className="footer">
-        <div className="footer__container container">
-            <h1 className="footer__title">Mohan Sai Potla</h1>
+      <div className="footer__container container">
+        <h1 className="footer__title">Mohan Sai Potla</h1>
 
-            <ul className="footer__list">
-                <li>
-                    <a href="#about" className="footer__link">About</a>
-                </li>
+        <ul className="footer__list">
+          <li>
+            <a href="#about" className="footer__link">
+              About
+            </a>
+          </li>
 
-                <li>
-                    <a href="#portfolio" className="footer__link">Projects</a>
-                </li>
+          <li>
+            <a href="#portfolio" className="footer__link">
+              Projects
+            </a>
+          </li>
 
-                <li>
-                    <a href="#testimonials" className="footer__link">Testimonials</a>
-                </li>
+          <li>
+            <a href="#testimonials" className="footer__link">
+              Testimonials
+            </a>
+          </li>
+        </ul>
 
-            </ul>
-
-            <div className="footer__social">
-                <a href='https://www.facebook.com/mohansaipotla' className='footer__social-link' target="_blank">
+        <div className="footer__social">
+          <a
+            href="https://www.facebook.com/mohansai46"
+            className="footer__social-link"
+            target="_blank"
+          >
             <i class="bx bxl-facebook"></i>
-        </a>
+          </a>
 
-        <a href='https://www.instagram.com/mohansai1998/' className='footer__social-link' target="_blank">
+          <a
+            href="https://www.instagram.com/mohansai1998/"
+            className="footer__social-link"
+            target="_blank"
+          >
             <i class="bx bxl-instagram"></i>
-        </a>
+          </a>
 
-        <a href='https://twitter.com/potlamohansai' className='footer__social-link' target="_blank">
+          <a
+            href="https://twitter.com/potlamohansai"
+            className="footer__social-link"
+            target="_blank"
+          >
             <i class="bx bxl-twitter"></i>
-        </a>
+          </a>
 
-        <a href='https://www.reddit.com/user/mohansai1998' className='footer__social-link' target="_blank">
-            <i class='bx bxl-reddit'></i>
-        </a>
-            </div>
-
-            <quote className='footer__quote'>"All know the way; few actually walk it."<i> -Bodhidharma</i></quote>
-
-            <span className='footer__copy'>
-                Copyright &#169;2022 All rights reserved | Made with &hearts; by Mohan
-            </span>
+          <a
+            href="https://www.reddit.com/user/mohansai1998"
+            className="footer__social-link"
+            target="_blank"
+          >
+            <i class="bx bxl-reddit"></i>
+          </a>
         </div>
-    </footer>
-  )
-}
 
-export default Footer
+        <quote className="footer__quote">
+          "All know the way; few actually walk it."<i> -Bodhidharma</i>
+        </quote>
+
+        <span className="footer__copy">
+          Copyright &#169; {new Date().getFullYear()} All rights reserved | Made
+          with &hearts; by Mohan
+        </span>
+      </div>
+    </footer>
+  );
+};
+
+export default Footer;
