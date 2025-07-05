@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-website/static/css/main.2856ed4d.css",
-    "main.js": "/portfolio-website/static/js/main.34ff45fb.js",
+    "main.js": "/portfolio-website/static/js/main.126cd187.js",
     "static/media/about.jpg": "/portfolio-website/static/media/about.53fd56cdd1144d3bf452.jpg",
     "static/media/profile.jpg": "/portfolio-website/static/media/profile.53fd56cdd1144d3bf452.jpg",
     "static/media/work7.jpg": "/portfolio-website/static/media/work7.bef96a1b9c7de204240d.jpg",
@@ -13,6 +13,7 @@
     "static/media/work19.jpg": "/portfolio-website/static/media/work19.d8389fc5cdac8e87e362.jpg",
     "static/media/work18.jpg": "/portfolio-website/static/media/work18.c98e5f720c32d11d2c48.jpg",
     "static/media/work2.jpg": "/portfolio-website/static/media/work2.255614caa3998c2fb1c3.jpg",
+    "static/media/MohanSaiPotla-Resume.pdf": "/portfolio-website/static/media/MohanSaiPotla-Resume.68b028cbc05197dc6a9a.pdf",
     "static/media/testimonial2.jpeg": "/portfolio-website/static/media/testimonial2.f16c6aed87ecf7db4485.jpeg",
     "static/media/work9.jpg": "/portfolio-website/static/media/work9.a5930874519673fe9966.jpg",
     "static/media/work10.jpg": "/portfolio-website/static/media/work10.f64b1a1749aa948995e4.jpg",
@@ -25,7 +26,6 @@
     "static/media/work17.jpg": "/portfolio-website/static/media/work17.e544179d2a1e64fa2aa2.jpg",
     "static/media/work1.jpg": "/portfolio-website/static/media/work1.f08ae8a244ea4904962d.jpg",
     "static/media/work5.jpg": "/portfolio-website/static/media/work5.1cbd291211725671c5a0.jpg",
-    "static/media/MohanSaiPotla-Resume.pdf": "/portfolio-website/static/media/MohanSaiPotla-Resume.d297c02725f9b42134c4.pdf",
     "static/media/work13.jpg": "/portfolio-website/static/media/work13.cd0e6e934bfd7c94f4e4.jpg",
     "static/media/work12.jpg": "/portfolio-website/static/media/work12.a42ea4fbc9df0b1ac9c0.jpg",
     "static/media/testimonial4.jpeg": "/portfolio-website/static/media/testimonial4.417e984c1fa391132ec5.jpeg",
@@ -33,10 +33,10 @@
     "static/media/work11.jpg": "/portfolio-website/static/media/work11.3f5d058048bbe22a3537.jpg",
     "index.html": "/portfolio-website/index.html",
     "main.2856ed4d.css.map": "/portfolio-website/static/css/main.2856ed4d.css.map",
-    "main.34ff45fb.js.map": "/portfolio-website/static/js/main.34ff45fb.js.map"
+    "main.126cd187.js.map": "/portfolio-website/static/js/main.126cd187.js.map"
   },
   "entrypoints": [
     "static/css/main.2856ed4d.css",
-    "static/js/main.34ff45fb.js"
+    "static/js/main.126cd187.js"
   ]
 }
